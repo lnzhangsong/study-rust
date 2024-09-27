@@ -1,1 +1,18 @@
 /target
+.DS_Store
+
+# Common Rust dependencies
+*.rs.bk
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+
+# Logs
+*.log
+
+# OS generated files
+Thumbs.db
+*.bak
+*.tmp
